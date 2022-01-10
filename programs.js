@@ -383,7 +383,7 @@ checkVariable(null);
 checkVariable(newVariable);
 
 
-//44.program to compare two arrays using JSON.stringify
+//30.program to compare two arrays using JSON.stringify
 function compareArrays(arr1, arr2) {
     // compare arrays
     const result = JSON.stringify(arr1) == JSON.stringify(arr2)
